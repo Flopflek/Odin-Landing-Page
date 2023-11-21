@@ -39,3 +39,14 @@ body {
     color:#e5e7eb;
     text-decoration:none;
 }
+
+.container-two {
+    display:flex;
+    height:600px;
+    justify-content: center;
+    width: 1200px;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+
