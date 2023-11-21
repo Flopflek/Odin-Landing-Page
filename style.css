@@ -1,0 +1,41 @@
+
+body {
+    margin: 0px;
+}
+
+.hero-container {
+    background-color: #1f2937;
+}
+.hero {
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 1200px;
+    margin:auto;
+}
+
+.container-one {
+    display:flex;
+    justify-content: space-between;
+}
+
+.header {
+    color: #f9faf8;
+    font-size: 24px;
+    display:flex;
+    align-items: center;
+}
+
+.header-links {
+    display:flex;
+    gap:16px;
+    list-style-type: none;
+    padding:0px;
+    
+}
+
+.li, a {
+
+    color:#e5e7eb;
+    text-decoration:none;
+}
