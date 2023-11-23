@@ -4,7 +4,7 @@ body {
     font-family: monospace;
 }
 
-.hero-container {
+.hero-container, .footer {
     background-color: #1f2937;
 }
 .hero {
