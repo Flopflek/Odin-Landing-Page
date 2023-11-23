@@ -156,3 +156,21 @@ img {
     font-weight: 700;
     font-size: 30px;
 }
+
+.cta-section {
+    display: flex;
+    height:400px;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-banner {
+    display:flex;
+    width: 1200px;
+    justify-content: space-evenly;
+    background-color: #3882f6;
+    height: 50%;
+    border-radius: 15px;
+    border: 2px solid grey;
+}
+
